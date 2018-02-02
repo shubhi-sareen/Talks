@@ -14,4 +14,4 @@ Repository of my talks/workshops
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
-| [Basic Dynamic Programming](https://github.com/shubhi-sareen/Deep-Dive-into-Competitive-Programming---Women-Who-Code-Delhi-Dynamic-Programming-) | [Women Who Code]https://www.meetup.com/Women-Who-Code-Delhi/events/243547695/) | December  |
+| [Basic Dynamic Programming](https://github.com/shubhi-sareen/Deep-Dive-into-Competitive-Programming---Women-Who-Code-Delhi-Dynamic-Programming-) | [Women Who Code] (https://www.meetup.com/Women-Who-Code-Delhi/events/243547695/) | December  |
