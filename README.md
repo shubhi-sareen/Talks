@@ -5,6 +5,7 @@ Repository of my talks/workshops
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
+| [Sentiment Analysis and Text Classifier Webinar](https://docs.google.com/presentation/d/1uj0IefW4j3i_hDfxUgKuzw_YWh5sYCGavr0fqCttgr8/edit?usp=sharing) | [ML Nerdie](https://www.facebook.com/mlnerdie/videos/480282612408130) | June |
 | [Deep Learning 101](https://docs.google.com/presentation/d/1GSieFi3Vz53VbpijSfV6a9ZJY5vLWlotc9xlYt8ldh4/edit?usp=sharing) | [Women Techmakers New Delhi](https://www.meetup.com/GDGNewDelhi/events/248254135/) | April |
 | [Number Theory](https://github.com/shubhi-sareen/Deep-Dive-into-Competitive-Programming---Women-Who-Code-Delhi-Number-Theory) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/247551851/) | February  |
 | [Graph Theory](https://github.com/shubhi-sareen/Deep-Dive-into-Competitive-Programming---Women-Who-Code-Delhi-Graph-Theory) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/246996186/) | February  |
