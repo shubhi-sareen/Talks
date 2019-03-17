@@ -6,6 +6,7 @@ Repository of my talks/workshops
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
 | Neural Architecture Search Using Genetic Algorithm | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/257638229/) | January | [Slides](https://docs.google.com/presentation/d/1xz3JcvRcVCgbvwzxKlpdDPNGPmKPkLe7HlwtnKJWB2A/edit?usp=sharing) |
+| Introduction to TensorFlow | [TensorFlow DevSummit Viewing Party, Google Cloud Developer Community, New Delhi](https://gdgnd.org/gcdc-new-delhi/events/tf-devsummit-viewing-party) | [Slides](https://docs.google.com/presentation/d/1w9ZR-TdN_YgiY92q0E1C9ZMPTFw3nDUxARAJvj-u7oI/edit?usp=sharing)
 
 ## 2018
 
