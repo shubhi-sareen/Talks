@@ -5,6 +5,8 @@ Repository of my talks/workshops
 
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Understanding RNNs and LSTMs | CSIR-NSCIR | May |
+| Textual Analysis and Understanding | CSIR-NSCIR | May |
 | Fooling a Neural Network | Extended IWD Summit by Women Techmakers, BVP | March | [Slides](https://docs.google.com/presentation/d/18susLnoo0zzmfjw0szyrHdlRm8zuWL1aGmNiQA3JrM4/edit?usp=sharing) |
 | Fooling a Neural Network + Various scholarships and opportunities | [AI Fest 2.0](http://aifest.iedccoet.org/) | March | [Slides 1](https://docs.google.com/presentation/d/18susLnoo0zzmfjw0szyrHdlRm8zuWL1aGmNiQA3JrM4/edit?usp=sharing) [Slides 2](https://docs.google.com/presentation/d/1DqaxNENOPQOQ41IMlSFPBQUEpdpqnaeJNwH1caDwmv0/edit?usp=sharing) |
 | Introduction to TensorFlow | [Tensorflow DevSummit Viewing Party by Google CLoud Developer Group, Delhi](https://commudle.com/gcdc-new-delhi/events/tf-devsummit-viewing-party) | March | [Slides](https://docs.google.com/presentation/d/1w9ZR-TdN_YgiY92q0E1C9ZMPTFw3nDUxARAJvj-u7oI/edit?usp=sharing) |
