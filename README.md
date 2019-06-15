@@ -5,7 +5,7 @@ Repository of my talks/workshops
 
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
-| Fooling a Neural Network | Codess by Google Cloud Developer Community, New Delhi | June | [Slides](https://docs.google.com/presentation/d/1Tr0oA4iw1d56Zp4RuILfsGBk3DjhecnXunNf_lxfR9s/edit?usp=sharing) |
+| Fooling a Neural Network | [Codess by Google Cloud Developer Community, New Delhi](https://commudle.com/gcdc-new-delhi/events/codess) | June | [Slides](https://docs.google.com/presentation/d/1Tr0oA4iw1d56Zp4RuILfsGBk3DjhecnXunNf_lxfR9s/edit?usp=sharing) |
 | Understanding RNNs and LSTMs | CSIR-NISCAIR | May |
 | Textual Analysis and Understanding | CSIR-NISCAIR | May |
 | Fooling a Neural Network | Extended IWD Summit by Women Techmakers, BVP | March | [Slides](https://docs.google.com/presentation/d/18susLnoo0zzmfjw0szyrHdlRm8zuWL1aGmNiQA3JrM4/edit?usp=sharing) |
